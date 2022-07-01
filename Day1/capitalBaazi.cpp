@@ -7,8 +7,19 @@ using namespace std;
 
 
 int main(){
-
-    cout << "This Clion github thingy works like a charm, I can commit from the IDE! DAyumm";
+    string input;
+    int i = 0;
+    cout << "Enter the string for the operation: ";
+    cin >> input;
+    int inputLength = strlen(input);
+    while(inputLength){
+        if(input[i] == ' '){
+            input[i] = "\n";
+        }
+        i++;
+        inputLength--;
+    }
+    cout << "The desired string is: " << input;
 
     return 0;
 }
