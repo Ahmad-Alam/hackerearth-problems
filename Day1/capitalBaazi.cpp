@@ -11,7 +11,7 @@ int main(){
     int i = 0;
     cout << "Enter the string for the operation: ";
     cin >> input;
-    int inputLength = strlen(input);
+    int inputLength = input.size();
     while(inputLength){
         if(input[i] == ' '){
             input[i] = '\n';
