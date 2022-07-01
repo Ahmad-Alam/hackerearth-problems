@@ -55,7 +55,7 @@ public:
 int main() {
 
     int t, d, i = 0;
-    char f[30];
+    char f[35];
     test *a;
     cin >> t;
     a = new test[t];
@@ -63,7 +63,7 @@ int main() {
     while (t > 0) {
         cin >> d;
         getchar();
-        cin.getline(f, 30);
+        cin.getline(f, 35);
         a[i].setN(d);
         a[i].setNum(f);
         t--;
