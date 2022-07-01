@@ -8,7 +8,7 @@ using namespace std;
 
 int main(){
 
-    cout << "What";
+    cout << "This Clion github thingy works like a charm, I can commit from the IDE! DAyumm";
 
     return 0;
 }
