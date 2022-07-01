@@ -14,7 +14,10 @@ int main(){
     int inputLength = strlen(input);
     while(inputLength){
         if(input[i] == ' '){
-            input[i] = "\n";
+            input[i] = '\n';
+        }
+        else{
+          input[i] = toupper(input[i]);
         }
         i++;
         inputLength--;
