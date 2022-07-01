@@ -7,22 +7,21 @@ using namespace std;
 
 
 int main(){
-    string input;
+    char input[10000];
     int i = 0;
-    cout << "Enter the string for the operation: ";
-    cin >> input;
-    int inputLength = input.size();
+    cin.getline(input,sizeof(input));
+    int inputLength = sizeof(input);
     while(inputLength){
         if(input[i] == ' '){
             input[i] = '\n';
         }
         else{
-          input[i] = toupper(input[i]);
+            input[i] = toupper(input[i]);
         }
         i++;
         inputLength--;
     }
-    cout << "The desired string is: " << input;
+    cout << input;
 
     return 0;
 }
