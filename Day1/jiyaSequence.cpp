@@ -9,13 +9,14 @@ using namespace std;
 
 int main() {
     int test;
-    int n, j = 0;
+    int n;
     int num[15];
     char input[30];
     int output = 1;
     cin >> test;
 
     while (test) {
+        int j = 0;
         cin >> n;
         getchar();
         cin.getline(input, (n * 2));
