@@ -29,7 +29,6 @@
 #include <iostream>
 using namespace std;
 
-
 int main() {
     int n;
     int arr[6] = {2, 4, 7, 8, 9, 10};
