@@ -1,3 +1,21 @@
 # ninja log v5
 2	2583	1656697463696099826	CMakeFiles/hackerearth_problems.dir/Day1/jiyaSequence.cpp.o	c9a21f5d2005c25f
 2584	2806	1656697463920099830	hackerearth_problems	9dfea1d84a851f3
+0	2269	1656785023336368135	CMakeFiles/hackerearth_problems.dir/Day2/wave.cpp.o	799d8db24d1198a7
+2270	2817	1656785023884368133	hackerearth_problems	b800e6b702252c18
+1	754	1656785038852368083	CMakeFiles/hackerearth_problems.dir/Day2/wave.cpp.o	799d8db24d1198a7
+755	941	1656785039036368082	hackerearth_problems	b800e6b702252c18
+1	709	1656785073344367967	CMakeFiles/hackerearth_problems.dir/Day2/wave.cpp.o	799d8db24d1198a7
+709	869	1656785073504367967	hackerearth_problems	b800e6b702252c18
+1	687	1656787538884359693	CMakeFiles/hackerearth_problems.dir/Day2/wave.cpp.o	799d8db24d1198a7
+687	858	1656787539056359693	hackerearth_problems	b800e6b702252c18
+2	633	1656787608876359458	CMakeFiles/hackerearth_problems.dir/Day2/wave.cpp.o	799d8db24d1198a7
+633	798	1656787609040359458	hackerearth_problems	b800e6b702252c18
+1	711	1656787619940359421	CMakeFiles/hackerearth_problems.dir/Day2/wave.cpp.o	799d8db24d1198a7
+711	887	1656787620128359420	hackerearth_problems	b800e6b702252c18
+2	1019	1656788338416357010	CMakeFiles/hackerearth_problems.dir/Day2/wave.cpp.o	799d8db24d1198a7
+1019	1168	1656788338564357010	hackerearth_problems	b800e6b702252c18
+1	718	1656788382804356861	CMakeFiles/hackerearth_problems.dir/Day2/wave.cpp.o	799d8db24d1198a7
+719	914	1656788383000356860	hackerearth_problems	b800e6b702252c18
+1	716	1656788428148356709	CMakeFiles/hackerearth_problems.dir/Day2/wave.cpp.o	799d8db24d1198a7
+716	862	1656788428292356708	hackerearth_problems	b800e6b702252c18
