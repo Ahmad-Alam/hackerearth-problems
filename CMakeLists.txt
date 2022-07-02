@@ -4,4 +4,4 @@ project(hackerearth_problems)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(hackerearth_problems
-        Day1/jiyaSequence.cpp)
+        Day2/divby3.cpp)
