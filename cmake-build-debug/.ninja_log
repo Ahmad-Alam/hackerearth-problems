@@ -1,22 +1,5 @@
 # ninja log v5
 2	2583	1656697463696099826	CMakeFiles/hackerearth_problems.dir/Day1/jiyaSequence.cpp.o	c9a21f5d2005c25f
-716	862	1656788428292356708	hackerearth_problems	b800e6b702252c18
-1	716	1656788428148356709	CMakeFiles/hackerearth_problems.dir/Day2/wave.cpp.o	799d8db24d1198a7
-0	955	1656822395935998242	CMakeFiles/hackerearth_problems.dir/Day3/sort-ve.cpp.o	554b1321dcb5501
-956	1155	1656822396135998241	hackerearth_problems	836d35a192d7f642
-1	699	1656822415727998176	CMakeFiles/hackerearth_problems.dir/Day3/sort-ve.cpp.o	554b1321dcb5501
-699	847	1656822415875998175	hackerearth_problems	836d35a192d7f642
-2	593	1656822450495998059	CMakeFiles/hackerearth_problems.dir/Day3/sort-ve.cpp.o	554b1321dcb5501
-593	748	1656822450651998058	hackerearth_problems	836d35a192d7f642
-1	591	1656822467711998001	CMakeFiles/hackerearth_problems.dir/Day3/sort-ve.cpp.o	554b1321dcb5501
-591	739	1656822467855998001	hackerearth_problems	836d35a192d7f642
-2	644	1656822511883997853	CMakeFiles/hackerearth_problems.dir/Day3/sort-ve.cpp.o	554b1321dcb5501
-645	799	1656822512035997852	hackerearth_problems	836d35a192d7f642
-2	576	1656822521371997821	CMakeFiles/hackerearth_problems.dir/Day3/sort-ve.cpp.o	554b1321dcb5501
-576	727	1656822521519997821	hackerearth_problems	836d35a192d7f642
-1	626	1656828397107978103	CMakeFiles/hackerearth_problems.dir/Day3/sort-ve.cpp.o	554b1321dcb5501
-626	823	1656828397303978102	hackerearth_problems	836d35a192d7f642
-1	3636	1656828620151977354	CMakeFiles/hackerearth_problems.dir/Day3/sort-ve.cpp.o	554b1321dcb5501
-3637	3802	1656828620315977354	hackerearth_problems	836d35a192d7f642
-3	2596	1656828643523977276	CMakeFiles/hackerearth_problems.dir/Day3/sort-ve.cpp.o	554b1321dcb5501
 2596	2761	1656828643687977275	hackerearth_problems	836d35a192d7f642
+3	2596	1656828643523977276	CMakeFiles/hackerearth_problems.dir/Day3/sort-ve.cpp.o	554b1321dcb5501
+1	716	1656788428148356709	CMakeFiles/hackerearth_problems.dir/Day2/wave.cpp.o	799d8db24d1198a7
