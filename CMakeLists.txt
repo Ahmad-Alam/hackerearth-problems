@@ -4,4 +4,4 @@ project(hackerearth_problems)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(hackerearth_problems
-        Day2/wave.cpp)
+        Day3/sort-ve.cpp)
