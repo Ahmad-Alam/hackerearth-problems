@@ -49,8 +49,8 @@ cmake_ninja_workdir = /home/alam/hackerearth-problems/cmake-build-debug/
 
 build cmake_object_order_depends_target_hackerearth_problems: phony || CMakeFiles/hackerearth_problems.dir
 
-build CMakeFiles/hackerearth_problems.dir/Day3/union.cpp.o: CXX_COMPILER__hackerearth_problems_Debug /home/alam/hackerearth-problems/Day3/union.cpp || cmake_object_order_depends_target_hackerearth_problems
-  DEP_FILE = CMakeFiles/hackerearth_problems.dir/Day3/union.cpp.o.d
+build CMakeFiles/hackerearth_problems.dir/Day3/findDupe.cpp.o: CXX_COMPILER__hackerearth_problems_Debug /home/alam/hackerearth-problems/Day3/findDupe.cpp || cmake_object_order_depends_target_hackerearth_problems
+  DEP_FILE = CMakeFiles/hackerearth_problems.dir/Day3/findDupe.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/hackerearth_problems.dir
   OBJECT_FILE_DIR = CMakeFiles/hackerearth_problems.dir/Day3
@@ -63,7 +63,7 @@ build CMakeFiles/hackerearth_problems.dir/Day3/union.cpp.o: CXX_COMPILER__hacker
 #############################################
 # Link the executable hackerearth_problems
 
-build hackerearth_problems: CXX_EXECUTABLE_LINKER__hackerearth_problems_Debug CMakeFiles/hackerearth_problems.dir/Day3/union.cpp.o
+build hackerearth_problems: CXX_EXECUTABLE_LINKER__hackerearth_problems_Debug CMakeFiles/hackerearth_problems.dir/Day3/findDupe.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/hackerearth_problems.dir
   POST_BUILD = :
