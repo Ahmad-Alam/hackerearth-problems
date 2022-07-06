@@ -1,6 +1,7 @@
 //
 // Created by alam on 05/07/22.
-//
+//find the duplicate number in the array
+//sort the array first and then just check if the next number is the array element.
 #include <iostream>
 #include <vector>
 #include <algorithm>
