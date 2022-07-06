@@ -4,14 +4,32 @@
 
 #include <iostream>
 #include <string>
+#include <sstream>
+
 using namespace std;
 
-int isPalindrome(char S[]){
+class Solution {
+public:
 
-}
 
-int main(){
+    int isPalindrome(string S) {
+        // Your code goes here
 
+        string container = S;
+
+        reverse(S.begin(), S.end());
+
+        if (container == S) {
+            return true;
+        } else {
+            return false;
+        }
+
+    }
+
+};
+
+int main() {
 
 
     return 0;
