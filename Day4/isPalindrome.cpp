@@ -1,6 +1,7 @@
 //
 // Created by alam on 06/07/22.
 //check if a number is a palindrome or not
+//code works on GeeksForGeeks
 
 #include <iostream>
 #include <string>
