@@ -20,5 +20,6 @@ void reverseString(vector<char>& s){
 int main(){
     vector<char> some = {'a', 'h', 'm', 'a', 'd'};
     reverseString(some);
+    cout << "and that's pretty much it.";
     return 0;
 }
