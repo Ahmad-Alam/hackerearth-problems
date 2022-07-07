@@ -3,7 +3,6 @@
 //reverse a string
 //push everything in a stack and then pop it
 #include <iostream>
-#include <stack>
 #include <vector>
 using namespace std;
 
@@ -21,7 +20,5 @@ void reverseString(vector<char>& s){
 int main(){
     vector<char> some = {'a', 'h', 'm', 'a', 'd'};
     reverseString(some);
-
-
     return 0;
 }
