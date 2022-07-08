@@ -1,7 +1,7 @@
 //
 // Created by alam on 06/07/22.
 //reverse a string
-//push everything in a stack and then pop it
+//well, just push stuff into a vector and then pop it.
 #include <iostream>
 #include <vector>
 using namespace std;
