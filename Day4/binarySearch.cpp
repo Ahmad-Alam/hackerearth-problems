@@ -6,11 +6,20 @@
 using namespace std;
 
 int binarySearch(int arr[], int size, int t) {
-    if (arr[size / 2] == t) {
-        return size/2;
-    }
-    else{
-
+    int l = 0;
+    int r = size - 1;
+    while (l <= r) {
+        int m = l + (r - l) / 2;
+        if (arr[m] == t) {
+            return t;
+        }
+        if (arr[m]  < t) {
+            l = m + 1;
+        }
+        if (arr[m] > t) {
+            r = m - 1;
+        }
+        return -1;
     }
 }
 
