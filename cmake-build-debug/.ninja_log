@@ -1,10 +1,9 @@
 # ninja log v5
+0	2789	1658214091711990240	CMakeFiles/hackerearth_problems.dir/Day5/peak.cpp.o	c6449ba70008270e
 2	2583	1656697463696099826	CMakeFiles/hackerearth_problems.dir/Day1/jiyaSequence.cpp.o	c9a21f5d2005c25f
 0	891	1656998375123992590	CMakeFiles/hackerearth_problems.dir/Day3/union.cpp.o	265d28bee12bbd99
-812	960	1657085149635995457	hackerearth_problems	221ec0b7f9e8bf5
+2790	3244	1658214092163990228	hackerearth_problems	6ca4213b2f732d19
 2	811	1657085149483995458	CMakeFiles/hackerearth_problems.dir/Day4/reverse.cpp.o	9822692986b71c74
 4	1335	1657082468803973245	CMakeFiles/hackerearth_problems.dir/Day3/findDupe.cpp.o	45d3f808e341046d
 3	2596	1656828643523977276	CMakeFiles/hackerearth_problems.dir/Day3/sort-ve.cpp.o	554b1321dcb5501
 1	716	1656788428148356709	CMakeFiles/hackerearth_problems.dir/Day2/wave.cpp.o	799d8db24d1198a7
-0	2789	1658214091711990240	CMakeFiles/hackerearth_problems.dir/Day5/peak.cpp.o	c6449ba70008270e
-2790	3244	1658214092163990228	hackerearth_problems	6ca4213b2f732d19
