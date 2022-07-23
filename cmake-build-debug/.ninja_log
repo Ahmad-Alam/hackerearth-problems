@@ -2,12 +2,11 @@
 0	2789	1658214091711990240	CMakeFiles/hackerearth_problems.dir/Day5/peak.cpp.o	c6449ba70008270e
 2	2583	1656697463696099826	CMakeFiles/hackerearth_problems.dir/Day1/jiyaSequence.cpp.o	c9a21f5d2005c25f
 0	891	1656998375123992590	CMakeFiles/hackerearth_problems.dir/Day3/union.cpp.o	265d28bee12bbd99
-2790	3244	1658214092163990228	hackerearth_problems	6ca4213b2f732d19
+0	725	1658237964103950369	CMakeFiles/hackerearth_problems.dir/Day5/perfectSquare.cpp.o	45d03bcb5e9d487a
+725	898	1658237964275950365	hackerearth_problems	463ac198caff02b0
 2	811	1657085149483995458	CMakeFiles/hackerearth_problems.dir/Day4/reverse.cpp.o	9822692986b71c74
 4	1335	1657082468803973245	CMakeFiles/hackerearth_problems.dir/Day3/findDupe.cpp.o	45d3f808e341046d
 3	2596	1656828643523977276	CMakeFiles/hackerearth_problems.dir/Day3/sort-ve.cpp.o	554b1321dcb5501
 1	716	1656788428148356709	CMakeFiles/hackerearth_problems.dir/Day2/wave.cpp.o	799d8db24d1198a7
-0	1410	1658237855087953156	CMakeFiles/hackerearth_problems.dir/Day5/perfectSquare.cpp.o	45d03bcb5e9d487a
-1411	1752	1658237855431953148	hackerearth_problems	463ac198caff02b0
-0	725	1658237964103950369	CMakeFiles/hackerearth_problems.dir/Day5/perfectSquare.cpp.o	45d03bcb5e9d487a
-725	898	1658237964275950365	hackerearth_problems	463ac198caff02b0
+11	4772	1658574033531991626	CMakeFiles/hackerearth_problems.dir/Day6/mergeInterval.cpp.o	79e2a8e1d265e6b1
+4773	6841	1658574035599991573	hackerearth_problems	eb145669abe3d96
